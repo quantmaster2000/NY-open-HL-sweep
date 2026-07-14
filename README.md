@@ -7,3 +7,6 @@ It should look like this:
 
 Then run backtest_ny_open_hl_sweep.py for basic analysis (Optimistic performance)
 Or run the main.py file for full analysis (bad performance). Usually takes like 30 mins to run depending on ur computing specs XD
+
+If there is an error which says something about a missing folder then maybe try to add a folder named Output.
+Please lmk if there is an error when running it.
