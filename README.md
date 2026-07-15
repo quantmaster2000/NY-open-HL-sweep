@@ -10,3 +10,6 @@ Or run the main.py file for full analysis (bad performance). Usually takes like 
 
 If there is an error which says something about a missing folder then maybe try to add a folder named Output.
 Please lmk if there is an error when running it.
+
+
+*AI has been used for this project*
